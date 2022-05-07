@@ -3,7 +3,7 @@
 <h2>Descripcion</h2>
 Este juego tiene consiste en un tablero 6x6 que contiene los numeros del 1 al 36. Cuando tu eliges un número, el oponente debe elegir un múltiplo o un divisor de este.
 
-Así pues si eliges el 10, el jugador oponente puede seguir con : {1, 2, 5, 20}.
+Así pues si eliges el 10, el jugador oponente puede seguir con : {1, 2, 5, 20, 30}.
 
 Las reglas son :
   - La restricción de tirar con un múltiplo o divisor del oponente.
